@@ -21,3 +21,8 @@ crimes in India with improved accuracy and thus reduces
 the crime rate. This helps all others department to carried 
 out other formalities.</li>
 </ul>
+<h2> Tech Stack </h2>
+<ul>
+  <li> Python</li>
+  <li> MySQL</li>
+</ul>
